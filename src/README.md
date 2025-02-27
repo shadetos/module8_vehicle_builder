@@ -10,8 +10,7 @@ This app lets you create cars
 - [Future-Features](#future-features)
 - [License](#license)
 - [Technologies](#technologies-used)
-- [Credits](#credits)
-- [Contact Me](#contact-me)
+
 
 ## Required Technologies
 
